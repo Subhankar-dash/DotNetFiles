@@ -1,0 +1,15 @@
+C:\Coditas\Assignment\CS_APIConsumer1\bin\Debug\net6.0\CS_APIConsumer1.exe
+C:\Coditas\Assignment\CS_APIConsumer1\bin\Debug\net6.0\CS_APIConsumer1.deps.json
+C:\Coditas\Assignment\CS_APIConsumer1\bin\Debug\net6.0\CS_APIConsumer1.runtimeconfig.json
+C:\Coditas\Assignment\CS_APIConsumer1\bin\Debug\net6.0\CS_APIConsumer1.dll
+C:\Coditas\Assignment\CS_APIConsumer1\bin\Debug\net6.0\CS_APIConsumer1.pdb
+C:\Coditas\Assignment\CS_APIConsumer1\obj\Debug\net6.0\CS_APIConsumer1.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\CS_APIConsumer1\obj\Debug\net6.0\CS_APIConsumer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\CS_APIConsumer1\obj\Debug\net6.0\CS_APIConsumer1.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\CS_APIConsumer1\obj\Debug\net6.0\CS_APIConsumer1.AssemblyInfo.cs
+C:\Coditas\Assignment\CS_APIConsumer1\obj\Debug\net6.0\CS_APIConsumer1.csproj.CoreCompileInputs.cache
+C:\Coditas\Assignment\CS_APIConsumer1\obj\Debug\net6.0\CS_APIConsumer1.dll
+C:\Coditas\Assignment\CS_APIConsumer1\obj\Debug\net6.0\refint\CS_APIConsumer1.dll
+C:\Coditas\Assignment\CS_APIConsumer1\obj\Debug\net6.0\CS_APIConsumer1.pdb
+C:\Coditas\Assignment\CS_APIConsumer1\obj\Debug\net6.0\CS_APIConsumer1.genruntimeconfig.cache
+C:\Coditas\Assignment\CS_APIConsumer1\obj\Debug\net6.0\ref\CS_APIConsumer1.dll

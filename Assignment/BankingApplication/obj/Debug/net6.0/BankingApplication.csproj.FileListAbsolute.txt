@@ -1,0 +1,15 @@
+C:\Coditas\Assignment\BankingApplication\bin\Debug\net6.0\BankingApplication.exe
+C:\Coditas\Assignment\BankingApplication\bin\Debug\net6.0\BankingApplication.deps.json
+C:\Coditas\Assignment\BankingApplication\bin\Debug\net6.0\BankingApplication.runtimeconfig.json
+C:\Coditas\Assignment\BankingApplication\bin\Debug\net6.0\BankingApplication.dll
+C:\Coditas\Assignment\BankingApplication\bin\Debug\net6.0\BankingApplication.pdb
+C:\Coditas\Assignment\BankingApplication\obj\Debug\net6.0\BankingApplication.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\BankingApplication\obj\Debug\net6.0\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\BankingApplication\obj\Debug\net6.0\BankingApplication.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\BankingApplication\obj\Debug\net6.0\BankingApplication.AssemblyInfo.cs
+C:\Coditas\Assignment\BankingApplication\obj\Debug\net6.0\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Coditas\Assignment\BankingApplication\obj\Debug\net6.0\BankingApplication.dll
+C:\Coditas\Assignment\BankingApplication\obj\Debug\net6.0\refint\BankingApplication.dll
+C:\Coditas\Assignment\BankingApplication\obj\Debug\net6.0\BankingApplication.pdb
+C:\Coditas\Assignment\BankingApplication\obj\Debug\net6.0\BankingApplication.genruntimeconfig.cache
+C:\Coditas\Assignment\BankingApplication\obj\Debug\net6.0\ref\BankingApplication.dll

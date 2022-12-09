@@ -1,0 +1,15 @@
+C:\Coditas\Assignment\ThreadDemo\bin\Debug\net6.0\ThreadDemo.exe
+C:\Coditas\Assignment\ThreadDemo\bin\Debug\net6.0\ThreadDemo.deps.json
+C:\Coditas\Assignment\ThreadDemo\bin\Debug\net6.0\ThreadDemo.runtimeconfig.json
+C:\Coditas\Assignment\ThreadDemo\bin\Debug\net6.0\ThreadDemo.dll
+C:\Coditas\Assignment\ThreadDemo\bin\Debug\net6.0\ThreadDemo.pdb
+C:\Coditas\Assignment\ThreadDemo\obj\Debug\net6.0\ThreadDemo.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\ThreadDemo\obj\Debug\net6.0\ThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\ThreadDemo\obj\Debug\net6.0\ThreadDemo.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\ThreadDemo\obj\Debug\net6.0\ThreadDemo.AssemblyInfo.cs
+C:\Coditas\Assignment\ThreadDemo\obj\Debug\net6.0\ThreadDemo.csproj.CoreCompileInputs.cache
+C:\Coditas\Assignment\ThreadDemo\obj\Debug\net6.0\ThreadDemo.dll
+C:\Coditas\Assignment\ThreadDemo\obj\Debug\net6.0\refint\ThreadDemo.dll
+C:\Coditas\Assignment\ThreadDemo\obj\Debug\net6.0\ThreadDemo.pdb
+C:\Coditas\Assignment\ThreadDemo\obj\Debug\net6.0\ThreadDemo.genruntimeconfig.cache
+C:\Coditas\Assignment\ThreadDemo\obj\Debug\net6.0\ref\ThreadDemo.dll

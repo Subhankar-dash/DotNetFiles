@@ -1,0 +1,15 @@
+C:\Coditas\Assignment\Assignment\bin\Debug\net6.0\MultiThread.exe
+C:\Coditas\Assignment\Assignment\bin\Debug\net6.0\MultiThread.deps.json
+C:\Coditas\Assignment\Assignment\bin\Debug\net6.0\MultiThread.runtimeconfig.json
+C:\Coditas\Assignment\Assignment\bin\Debug\net6.0\MultiThread.dll
+C:\Coditas\Assignment\Assignment\bin\Debug\net6.0\MultiThread.pdb
+C:\Coditas\Assignment\Assignment\obj\Debug\net6.0\MultiThread.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\Assignment\obj\Debug\net6.0\MultiThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\Assignment\obj\Debug\net6.0\MultiThread.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\Assignment\obj\Debug\net6.0\MultiThread.AssemblyInfo.cs
+C:\Coditas\Assignment\Assignment\obj\Debug\net6.0\MultiThread.csproj.CoreCompileInputs.cache
+C:\Coditas\Assignment\Assignment\obj\Debug\net6.0\MultiThread.dll
+C:\Coditas\Assignment\Assignment\obj\Debug\net6.0\refint\MultiThread.dll
+C:\Coditas\Assignment\Assignment\obj\Debug\net6.0\MultiThread.pdb
+C:\Coditas\Assignment\Assignment\obj\Debug\net6.0\MultiThread.genruntimeconfig.cache
+C:\Coditas\Assignment\Assignment\obj\Debug\net6.0\ref\MultiThread.dll

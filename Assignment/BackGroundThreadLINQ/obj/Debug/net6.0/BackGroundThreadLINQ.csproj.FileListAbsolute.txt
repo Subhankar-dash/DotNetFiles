@@ -1,0 +1,15 @@
+C:\Coditas\Assignment\BackGroundThreadLINQ\bin\Debug\net6.0\BackGroundThreadLINQ.exe
+C:\Coditas\Assignment\BackGroundThreadLINQ\bin\Debug\net6.0\BackGroundThreadLINQ.deps.json
+C:\Coditas\Assignment\BackGroundThreadLINQ\bin\Debug\net6.0\BackGroundThreadLINQ.runtimeconfig.json
+C:\Coditas\Assignment\BackGroundThreadLINQ\bin\Debug\net6.0\BackGroundThreadLINQ.dll
+C:\Coditas\Assignment\BackGroundThreadLINQ\bin\Debug\net6.0\BackGroundThreadLINQ.pdb
+C:\Coditas\Assignment\BackGroundThreadLINQ\obj\Debug\net6.0\BackGroundThreadLINQ.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\BackGroundThreadLINQ\obj\Debug\net6.0\BackGroundThreadLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\BackGroundThreadLINQ\obj\Debug\net6.0\BackGroundThreadLINQ.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\BackGroundThreadLINQ\obj\Debug\net6.0\BackGroundThreadLINQ.AssemblyInfo.cs
+C:\Coditas\Assignment\BackGroundThreadLINQ\obj\Debug\net6.0\BackGroundThreadLINQ.csproj.CoreCompileInputs.cache
+C:\Coditas\Assignment\BackGroundThreadLINQ\obj\Debug\net6.0\BackGroundThreadLINQ.dll
+C:\Coditas\Assignment\BackGroundThreadLINQ\obj\Debug\net6.0\refint\BackGroundThreadLINQ.dll
+C:\Coditas\Assignment\BackGroundThreadLINQ\obj\Debug\net6.0\BackGroundThreadLINQ.pdb
+C:\Coditas\Assignment\BackGroundThreadLINQ\obj\Debug\net6.0\BackGroundThreadLINQ.genruntimeconfig.cache
+C:\Coditas\Assignment\BackGroundThreadLINQ\obj\Debug\net6.0\ref\BackGroundThreadLINQ.dll

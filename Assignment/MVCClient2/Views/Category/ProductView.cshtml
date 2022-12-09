@@ -1,0 +1,14 @@
+﻿@model MVCClient2.Models.ProductProd
+
+@{
+    ViewData["Title"] ="ProductView";
+    var Product = (List<ClientNS.Product>)ViewBag.ProductList ;
+}
+
+
+ 
+     @foreach(var P in Product)
+    { 
+        <h1>P.ProductId</h1>
+        
+    }    

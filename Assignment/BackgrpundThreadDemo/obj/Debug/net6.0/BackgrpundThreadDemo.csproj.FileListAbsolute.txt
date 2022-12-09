@@ -1,0 +1,15 @@
+C:\Coditas\Assignment\BackgrpundThreadDemo\bin\Debug\net6.0\BackgrpundThreadDemo.exe
+C:\Coditas\Assignment\BackgrpundThreadDemo\bin\Debug\net6.0\BackgrpundThreadDemo.deps.json
+C:\Coditas\Assignment\BackgrpundThreadDemo\bin\Debug\net6.0\BackgrpundThreadDemo.runtimeconfig.json
+C:\Coditas\Assignment\BackgrpundThreadDemo\bin\Debug\net6.0\BackgrpundThreadDemo.dll
+C:\Coditas\Assignment\BackgrpundThreadDemo\bin\Debug\net6.0\BackgrpundThreadDemo.pdb
+C:\Coditas\Assignment\BackgrpundThreadDemo\obj\Debug\net6.0\BackgrpundThreadDemo.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\BackgrpundThreadDemo\obj\Debug\net6.0\BackgrpundThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\BackgrpundThreadDemo\obj\Debug\net6.0\BackgrpundThreadDemo.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\BackgrpundThreadDemo\obj\Debug\net6.0\BackgrpundThreadDemo.AssemblyInfo.cs
+C:\Coditas\Assignment\BackgrpundThreadDemo\obj\Debug\net6.0\BackgrpundThreadDemo.csproj.CoreCompileInputs.cache
+C:\Coditas\Assignment\BackgrpundThreadDemo\obj\Debug\net6.0\BackgrpundThreadDemo.dll
+C:\Coditas\Assignment\BackgrpundThreadDemo\obj\Debug\net6.0\refint\BackgrpundThreadDemo.dll
+C:\Coditas\Assignment\BackgrpundThreadDemo\obj\Debug\net6.0\BackgrpundThreadDemo.pdb
+C:\Coditas\Assignment\BackgrpundThreadDemo\obj\Debug\net6.0\BackgrpundThreadDemo.genruntimeconfig.cache
+C:\Coditas\Assignment\BackgrpundThreadDemo\obj\Debug\net6.0\ref\BackgrpundThreadDemo.dll

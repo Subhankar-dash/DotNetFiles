@@ -1,0 +1,284 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Coditas\\Assignment\\MVCApps\\MVCApps.csproj": {}
+  },
+  "projects": {
+    "C:\\Coditas\\Assignment\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Coditas\\Assignment\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Coditas\\Assignment\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Coditas\\.nuget\\packages\\",
+        "outputPath": "C:\\Coditas\\Assignment\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Coditas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Coditas\\Assignment\\MVP1.Entity\\MVP1.Entity.csproj": {
+                "projectPath": "C:\\Coditas\\Assignment\\MVP1.Entity\\MVP1.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "microsoft.EntityFrameworkcore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "microsoft.EntityFrameworkcore.design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "microsoft.EntityFrameworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "microsoft.EntityFrameworkcore.tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Coditas\\Assignment\\MCP1.Reposetery\\MCP1.Reposetery.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Coditas\\Assignment\\MCP1.Reposetery\\MCP1.Reposetery.csproj",
+        "projectName": "MCP1.Reposetery",
+        "projectPath": "C:\\Coditas\\Assignment\\MCP1.Reposetery\\MCP1.Reposetery.csproj",
+        "packagesPath": "C:\\Users\\Coditas\\.nuget\\packages\\",
+        "outputPath": "C:\\Coditas\\Assignment\\MCP1.Reposetery\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Coditas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Coditas\\Assignment\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Coditas\\Assignment\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Coditas\\Assignment\\MVP1.Entity\\MVP1.Entity.csproj": {
+                "projectPath": "C:\\Coditas\\Assignment\\MVP1.Entity\\MVP1.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Coditas\\Assignment\\MVCApps\\MVCApps.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Coditas\\Assignment\\MVCApps\\MVCApps.csproj",
+        "projectName": "MVCApps",
+        "projectPath": "C:\\Coditas\\Assignment\\MVCApps\\MVCApps.csproj",
+        "packagesPath": "C:\\Users\\Coditas\\.nuget\\packages\\",
+        "outputPath": "C:\\Coditas\\Assignment\\MVCApps\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Coditas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Coditas\\Assignment\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Coditas\\Assignment\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Coditas\\Assignment\\MCP1.Reposetery\\MCP1.Reposetery.csproj": {
+                "projectPath": "C:\\Coditas\\Assignment\\MCP1.Reposetery\\MCP1.Reposetery.csproj"
+              },
+              "C:\\Coditas\\Assignment\\MVP1.Entity\\MVP1.Entity.csproj": {
+                "projectPath": "C:\\Coditas\\Assignment\\MVP1.Entity\\MVP1.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "microsoft.EntityFrameworkcore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "microsoft.EntityFrameworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Coditas\\Assignment\\MVP1.Entity\\MVP1.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Coditas\\Assignment\\MVP1.Entity\\MVP1.Entity.csproj",
+        "projectName": "MVP1.Entity",
+        "projectPath": "C:\\Coditas\\Assignment\\MVP1.Entity\\MVP1.Entity.csproj",
+        "packagesPath": "C:\\Users\\Coditas\\.nuget\\packages\\",
+        "outputPath": "C:\\Coditas\\Assignment\\MVP1.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Coditas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Coditas\Assignment\TaskOnTax\obj\Debug\net6.0\TaskOnTax.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\TaskOnTax\obj\Debug\net6.0\TaskOnTax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\TaskOnTax\obj\Debug\net6.0\TaskOnTax.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\TaskOnTax\obj\Debug\net6.0\TaskOnTax.AssemblyInfo.cs
+C:\Coditas\Assignment\TaskOnTax\obj\Debug\net6.0\TaskOnTax.csproj.CoreCompileInputs.cache
+C:\Coditas\Assignment\TaskOnTax\bin\Debug\net6.0\TaskOnTax.exe
+C:\Coditas\Assignment\TaskOnTax\bin\Debug\net6.0\TaskOnTax.deps.json
+C:\Coditas\Assignment\TaskOnTax\bin\Debug\net6.0\TaskOnTax.runtimeconfig.json
+C:\Coditas\Assignment\TaskOnTax\bin\Debug\net6.0\TaskOnTax.dll
+C:\Coditas\Assignment\TaskOnTax\bin\Debug\net6.0\TaskOnTax.pdb
+C:\Coditas\Assignment\TaskOnTax\obj\Debug\net6.0\TaskOnTax.dll
+C:\Coditas\Assignment\TaskOnTax\obj\Debug\net6.0\refint\TaskOnTax.dll
+C:\Coditas\Assignment\TaskOnTax\obj\Debug\net6.0\TaskOnTax.pdb
+C:\Coditas\Assignment\TaskOnTax\obj\Debug\net6.0\TaskOnTax.genruntimeconfig.cache
+C:\Coditas\Assignment\TaskOnTax\obj\Debug\net6.0\ref\TaskOnTax.dll

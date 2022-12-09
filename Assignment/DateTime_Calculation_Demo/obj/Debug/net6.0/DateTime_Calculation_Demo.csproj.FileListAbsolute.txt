@@ -1,0 +1,5 @@
+C:\Coditas\Assignment\DateTime_Calculation_Demo\obj\Debug\net6.0\DateTime_Calculation_Demo.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\DateTime_Calculation_Demo\obj\Debug\net6.0\DateTime_Calculation_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\DateTime_Calculation_Demo\obj\Debug\net6.0\DateTime_Calculation_Demo.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\DateTime_Calculation_Demo\obj\Debug\net6.0\DateTime_Calculation_Demo.AssemblyInfo.cs
+C:\Coditas\Assignment\DateTime_Calculation_Demo\obj\Debug\net6.0\DateTime_Calculation_Demo.csproj.CoreCompileInputs.cache

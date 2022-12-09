@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sYgApZ3qGHjk4ID+GPFNqWacxd6Wydzp4I7cBgRW0V3EApkVOTXeQjBwYs3rUmGFyxYAaoLF4NeQRh9AfSTPFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Coditas\\Assignment\\CSV\\CSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coditas\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

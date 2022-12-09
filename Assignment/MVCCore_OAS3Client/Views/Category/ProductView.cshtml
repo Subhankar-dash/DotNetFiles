@@ -1,0 +1,29 @@
+﻿@model MVCCore_OAS3Client.Models.SubCategoryProd
+
+
+
+@{
+    ViewData["Title"] = "ProductView";
+    var SubCategoriesList =(List<ClientNS.SubCategory>) ViewBag.SubCategory;
+}
+
+<h1>ProductView</h1>
+
+
+
+
+
+ @using(Html.BeginForm()){    
+     @foreach(var Scat in SubCategoriesList)
+     {        
+        <H2>Scat.SubCategoryId</H2> 
+       <H2>  Scat.SubCategoryName</H2> 
+
+     }    
+         <br/>    <br/>    
+         <input type = "submit" value="submit" />}
+
+
+
+
+         

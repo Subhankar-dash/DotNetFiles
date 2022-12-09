@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @ViewBag.Categories
+
+    Male:   @Html.RadioButton("Gender","Male")  
+Female: @Html.RadioButton("Gender","Female")  
+</div>

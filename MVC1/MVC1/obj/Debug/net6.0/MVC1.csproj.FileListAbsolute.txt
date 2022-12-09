@@ -1,0 +1,15 @@
+C:\Coditas\MVC1\MVC1\bin\Debug\net6.0\MVC1.exe
+C:\Coditas\MVC1\MVC1\bin\Debug\net6.0\MVC1.deps.json
+C:\Coditas\MVC1\MVC1\bin\Debug\net6.0\MVC1.runtimeconfig.json
+C:\Coditas\MVC1\MVC1\bin\Debug\net6.0\MVC1.dll
+C:\Coditas\MVC1\MVC1\bin\Debug\net6.0\MVC1.pdb
+C:\Coditas\MVC1\MVC1\obj\Debug\net6.0\MVC1.csproj.AssemblyReference.cache
+C:\Coditas\MVC1\MVC1\obj\Debug\net6.0\MVC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\MVC1\MVC1\obj\Debug\net6.0\MVC1.AssemblyInfoInputs.cache
+C:\Coditas\MVC1\MVC1\obj\Debug\net6.0\MVC1.AssemblyInfo.cs
+C:\Coditas\MVC1\MVC1\obj\Debug\net6.0\MVC1.csproj.CoreCompileInputs.cache
+C:\Coditas\MVC1\MVC1\obj\Debug\net6.0\MVC1.dll
+C:\Coditas\MVC1\MVC1\obj\Debug\net6.0\refint\MVC1.dll
+C:\Coditas\MVC1\MVC1\obj\Debug\net6.0\MVC1.pdb
+C:\Coditas\MVC1\MVC1\obj\Debug\net6.0\MVC1.genruntimeconfig.cache
+C:\Coditas\MVC1\MVC1\obj\Debug\net6.0\ref\MVC1.dll

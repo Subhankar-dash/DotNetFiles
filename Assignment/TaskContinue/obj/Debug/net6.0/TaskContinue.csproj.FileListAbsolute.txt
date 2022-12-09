@@ -1,0 +1,15 @@
+C:\Coditas\Assignment\TaskContinue\bin\Debug\net6.0\TaskContinue.exe
+C:\Coditas\Assignment\TaskContinue\bin\Debug\net6.0\TaskContinue.deps.json
+C:\Coditas\Assignment\TaskContinue\bin\Debug\net6.0\TaskContinue.runtimeconfig.json
+C:\Coditas\Assignment\TaskContinue\bin\Debug\net6.0\TaskContinue.dll
+C:\Coditas\Assignment\TaskContinue\bin\Debug\net6.0\TaskContinue.pdb
+C:\Coditas\Assignment\TaskContinue\obj\Debug\net6.0\TaskContinue.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\TaskContinue\obj\Debug\net6.0\TaskContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\TaskContinue\obj\Debug\net6.0\TaskContinue.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\TaskContinue\obj\Debug\net6.0\TaskContinue.AssemblyInfo.cs
+C:\Coditas\Assignment\TaskContinue\obj\Debug\net6.0\TaskContinue.csproj.CoreCompileInputs.cache
+C:\Coditas\Assignment\TaskContinue\obj\Debug\net6.0\TaskContinue.dll
+C:\Coditas\Assignment\TaskContinue\obj\Debug\net6.0\refint\TaskContinue.dll
+C:\Coditas\Assignment\TaskContinue\obj\Debug\net6.0\TaskContinue.pdb
+C:\Coditas\Assignment\TaskContinue\obj\Debug\net6.0\TaskContinue.genruntimeconfig.cache
+C:\Coditas\Assignment\TaskContinue\obj\Debug\net6.0\ref\TaskContinue.dll

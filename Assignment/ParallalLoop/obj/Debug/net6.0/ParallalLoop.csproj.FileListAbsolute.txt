@@ -1,0 +1,15 @@
+C:\Coditas\Assignment\ParallalLoop\bin\Debug\net6.0\ParallalLoop.exe
+C:\Coditas\Assignment\ParallalLoop\bin\Debug\net6.0\ParallalLoop.deps.json
+C:\Coditas\Assignment\ParallalLoop\bin\Debug\net6.0\ParallalLoop.runtimeconfig.json
+C:\Coditas\Assignment\ParallalLoop\bin\Debug\net6.0\ParallalLoop.dll
+C:\Coditas\Assignment\ParallalLoop\bin\Debug\net6.0\ParallalLoop.pdb
+C:\Coditas\Assignment\ParallalLoop\obj\Debug\net6.0\ParallalLoop.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\ParallalLoop\obj\Debug\net6.0\ParallalLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\ParallalLoop\obj\Debug\net6.0\ParallalLoop.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\ParallalLoop\obj\Debug\net6.0\ParallalLoop.AssemblyInfo.cs
+C:\Coditas\Assignment\ParallalLoop\obj\Debug\net6.0\ParallalLoop.csproj.CoreCompileInputs.cache
+C:\Coditas\Assignment\ParallalLoop\obj\Debug\net6.0\ParallalLoop.dll
+C:\Coditas\Assignment\ParallalLoop\obj\Debug\net6.0\refint\ParallalLoop.dll
+C:\Coditas\Assignment\ParallalLoop\obj\Debug\net6.0\ParallalLoop.pdb
+C:\Coditas\Assignment\ParallalLoop\obj\Debug\net6.0\ParallalLoop.genruntimeconfig.cache
+C:\Coditas\Assignment\ParallalLoop\obj\Debug\net6.0\ref\ParallalLoop.dll

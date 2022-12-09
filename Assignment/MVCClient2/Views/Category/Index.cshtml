@@ -1,0 +1,20 @@
+﻿@model MVCClient2.Models.CategoryProd
+
+@{
+    ViewData["Title"] ="Home";
+    var CategoriesList =(List<ClientNS.Category>) ViewBag.Categories;
+}
+
+ @using(Html.BeginForm()){    
+     foreach(var cat in CategoriesList)
+     {        @Html.RadioButtonFor(m=>m.CategoryId,cat.CategoryId)@cat.CategoryName;    
+         
+         <br/>   
+     }    
+         <br/>    <br/>    
+         <input type = "submit" value="submit" />}
+
+
+
+
+         

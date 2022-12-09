@@ -1,0 +1,12 @@
+C:\Coditas\Assignment\MVP1.Entity\bin\Debug\net6.0\MVP1.Entity.deps.json
+C:\Coditas\Assignment\MVP1.Entity\bin\Debug\net6.0\MVP1.Entity.dll
+C:\Coditas\Assignment\MVP1.Entity\bin\Debug\net6.0\MVP1.Entity.pdb
+C:\Coditas\Assignment\MVP1.Entity\obj\Debug\net6.0\MVP1.Entity.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\MVP1.Entity\obj\Debug\net6.0\MVP1.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\MVP1.Entity\obj\Debug\net6.0\MVP1.Entity.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\MVP1.Entity\obj\Debug\net6.0\MVP1.Entity.AssemblyInfo.cs
+C:\Coditas\Assignment\MVP1.Entity\obj\Debug\net6.0\MVP1.Entity.csproj.CoreCompileInputs.cache
+C:\Coditas\Assignment\MVP1.Entity\obj\Debug\net6.0\MVP1.Entity.dll
+C:\Coditas\Assignment\MVP1.Entity\obj\Debug\net6.0\refint\MVP1.Entity.dll
+C:\Coditas\Assignment\MVP1.Entity\obj\Debug\net6.0\MVP1.Entity.pdb
+C:\Coditas\Assignment\MVP1.Entity\obj\Debug\net6.0\ref\MVP1.Entity.dll

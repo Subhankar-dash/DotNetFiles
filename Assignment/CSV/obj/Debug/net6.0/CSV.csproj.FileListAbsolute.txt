@@ -1,0 +1,17 @@
+C:\Coditas\Assignment\CSV\bin\Debug\net6.0\CSV.exe
+C:\Coditas\Assignment\CSV\bin\Debug\net6.0\CSV.deps.json
+C:\Coditas\Assignment\CSV\bin\Debug\net6.0\CSV.runtimeconfig.json
+C:\Coditas\Assignment\CSV\bin\Debug\net6.0\CSV.dll
+C:\Coditas\Assignment\CSV\bin\Debug\net6.0\CSV.pdb
+C:\Coditas\Assignment\CSV\bin\Debug\net6.0\CsvHelper.dll
+C:\Coditas\Assignment\CSV\obj\Debug\net6.0\CSV.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\CSV\obj\Debug\net6.0\CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\CSV\obj\Debug\net6.0\CSV.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\CSV\obj\Debug\net6.0\CSV.AssemblyInfo.cs
+C:\Coditas\Assignment\CSV\obj\Debug\net6.0\CSV.csproj.CoreCompileInputs.cache
+C:\Coditas\Assignment\CSV\obj\Debug\net6.0\CSV.csproj.CopyComplete
+C:\Coditas\Assignment\CSV\obj\Debug\net6.0\CSV.dll
+C:\Coditas\Assignment\CSV\obj\Debug\net6.0\refint\CSV.dll
+C:\Coditas\Assignment\CSV\obj\Debug\net6.0\CSV.pdb
+C:\Coditas\Assignment\CSV\obj\Debug\net6.0\CSV.genruntimeconfig.cache
+C:\Coditas\Assignment\CSV\obj\Debug\net6.0\ref\CSV.dll

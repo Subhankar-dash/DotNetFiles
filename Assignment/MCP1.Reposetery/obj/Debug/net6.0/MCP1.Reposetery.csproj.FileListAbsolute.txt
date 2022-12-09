@@ -1,0 +1,17 @@
+C:\Coditas\Assignment\MCP1.Reposetery\obj\Debug\net6.0\MCP1.Reposetery.csproj.AssemblyReference.cache
+C:\Coditas\Assignment\MCP1.Reposetery\obj\Debug\net6.0\MCP1.Reposetery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\Assignment\MCP1.Reposetery\obj\Debug\net6.0\MCP1.Reposetery.AssemblyInfoInputs.cache
+C:\Coditas\Assignment\MCP1.Reposetery\obj\Debug\net6.0\MCP1.Reposetery.AssemblyInfo.cs
+C:\Coditas\Assignment\MCP1.Reposetery\obj\Debug\net6.0\MCP1.Reposetery.csproj.CoreCompileInputs.cache
+C:\Coditas\Assignment\MCP1.Reposetery\bin\Debug\net6.0\MCP1.Reposetery.deps.json
+C:\Coditas\Assignment\MCP1.Reposetery\bin\Debug\net6.0\MCP1.Reposetery.dll
+C:\Coditas\Assignment\MCP1.Reposetery\bin\Debug\net6.0\MCP1.Reposetery.pdb
+C:\Coditas\Assignment\MCP1.Reposetery\bin\Debug\net6.0\DataAccess.dll
+C:\Coditas\Assignment\MCP1.Reposetery\bin\Debug\net6.0\MVP1.Entity.dll
+C:\Coditas\Assignment\MCP1.Reposetery\bin\Debug\net6.0\DataAccess.pdb
+C:\Coditas\Assignment\MCP1.Reposetery\bin\Debug\net6.0\MVP1.Entity.pdb
+C:\Coditas\Assignment\MCP1.Reposetery\obj\Debug\net6.0\MCP1.Reposetery.csproj.CopyComplete
+C:\Coditas\Assignment\MCP1.Reposetery\obj\Debug\net6.0\MCP1.Reposetery.dll
+C:\Coditas\Assignment\MCP1.Reposetery\obj\Debug\net6.0\refint\MCP1.Reposetery.dll
+C:\Coditas\Assignment\MCP1.Reposetery\obj\Debug\net6.0\MCP1.Reposetery.pdb
+C:\Coditas\Assignment\MCP1.Reposetery\obj\Debug\net6.0\ref\MCP1.Reposetery.dll
